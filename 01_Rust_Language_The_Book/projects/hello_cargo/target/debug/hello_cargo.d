@@ -1,0 +1,1 @@
+/home/nasaruddin/Projects/Learning/rust/rust_roadmap/01_Rust_Language_The_Book/projects/hello_cargo/target/debug/hello_cargo: /home/nasaruddin/Projects/Learning/rust/rust_roadmap/01_Rust_Language_The_Book/projects/hello_cargo/src/main.rs
